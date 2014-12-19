@@ -1,0 +1,6 @@
+{
+  "mongodb": {
+    "uri": "mongodb://rest:FebfelUtHyHyil@ds051960.mongolab.com:51960/rest-api"
+  },
+  "lifeTime": 600
+}
